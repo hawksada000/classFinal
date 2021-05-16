@@ -1,0 +1,14 @@
+body {
+    background-image: url("./images/BGhome.jpg");
+    background-repeat: no-repeat;
+  }
+
+.container{
+    margin-top: 20px;
+}
+
+
+.investmentHeader{
+    text-align: center;
+    margin-bottom:20px;
+}
